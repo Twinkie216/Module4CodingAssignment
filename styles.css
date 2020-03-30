@@ -2,8 +2,18 @@
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-evenly;
+    background-color: burlywood;
 }
 
 .cell {
     padding: 1em;
+    max-width: 20em;
+}
+
+h1 {
+    color: rgb(2, 2, 126);
+}
+
+h3 {
+    color: red
 }
